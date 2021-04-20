@@ -4,6 +4,7 @@
          </title>
      </head>
      <body>
+![](/images/5t5eyes.jpg)
      大琴哥<br>12.17<br>生日快乐
      <b>大琴哥特好看</b>
      <i>大琴哥生日快乐</i>
